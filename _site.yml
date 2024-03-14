@@ -1,0 +1,16 @@
+name: "title"
+title: "Title"
+description: |
+  Description
+base_url: https://ahasverus.github.io/distill-gh-pages
+repository_url: https://github.com/ahasverus/distill-gh-pages
+creative_commons: CC BY
+output_dir: "_site"
+navbar:
+  source_url: true
+  right:
+    - icon: fa fa-home
+      href: index.html
+    - text: "Courses"
+      href: "#"
+output: distill::distill_article
