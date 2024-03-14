@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Title",
+      "description": "Description",
+      "author": [
+        {
+          "name": "Nicolas Casajus",
+          "url": "https://nicolascasajus.fr"
+        }
+      ],
+      "date": "`r format(Sys.Date(), '%m-%d-%Y')`",
+      "contents": "\nPage content\n\n\n\n",
+      "last_modified": "2024-03-14T14:04:08+00:00"
+    }
+  ],
+  "collections": []
+}
