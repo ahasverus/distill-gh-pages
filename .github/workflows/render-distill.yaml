@@ -32,5 +32,3 @@ jobs:
         with:
           branch: gh-pages
           folder: "_site" # The folder the action should deploy.
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
